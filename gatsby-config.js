@@ -1,7 +1,9 @@
 module.exports = {
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
+    author: 'LANDFALL',
     title: "Kodaisai_LANDFALL",
+    description: 'LANDFALLの工大祭特設サイト'
   },
   plugins: [
     "gatsby-plugin-sass",
@@ -14,7 +16,7 @@ module.exports = {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "images",
-        path: "./src/images/",
+        path: "./src/assets/img/",
       },
       __key: "images",
     },
