@@ -68,12 +68,12 @@ const IndexPage = () => (
     <section className="intro">
       <header>
         <h1>
-          とても面白い工大祭特設サイト
+          LANDFALLによる研究室紹介
         </h1>
         <p>
           東工大生協学生委員会 LANDFALL
           <br />
-          <a href="https://twitter.com/landfall_pr">@LANFALL_PR</a> /{" "}
+          <a href="https://twitter.com/landfall_pr">@LANDFALL_PR</a> /{" "}
           <a href="https://landfaller.com">LANDFALL公式サイト</a>
         </p>
         {/* <ul className="actions">
