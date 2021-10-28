@@ -7,7 +7,7 @@ import full07 from "../assets/img/gallery/fulls/watanabe.png";
 import full08 from "../assets/img/gallery/fulls/landfall92.png";
 import full09 from "../assets/img/gallery/fulls/tokowalker21.png";
 import full10 from "../assets/img/gallery/fulls/indexhero.png";
-import Uncle from "../assets/img/uncle.png";
+
 import pic01 from "../assets/img/hero.jpg";
 import pic02 from "../assets/img/kansya.jpg";
 import Gallery from "../components/Gallery";

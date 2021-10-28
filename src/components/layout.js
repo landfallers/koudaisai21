@@ -25,7 +25,7 @@ const Layout = ({ children }) => (
             { name: 'keywords', content: 'sample, something' },
           ]}
         >
-          <html lang="en" />
+          <html lang="ja" />
         </Helmet>
         <div id="wrapper">{children}</div>
         <StaticImage src="../assets/img/footer.png" alt="footer"/>
