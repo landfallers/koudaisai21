@@ -68,7 +68,7 @@ const IndexPage = () => (
     <section className="intro">
       <header>
         <h1>
-          LANDFALL 研究室紹介
+          LANDFALLによる研究室紹介
         </h1>
         <p>
           東工大生協学生委員会 LANDFALL
